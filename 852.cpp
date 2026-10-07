@@ -44,4 +44,5 @@ int main()
     cout << "Peak index = " << answer << endl;
 
     return 0;
+    
 }
