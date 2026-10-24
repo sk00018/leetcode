@@ -33,5 +33,6 @@ for (int i = 0; i < s.length(); i++) {
 cout << "Longest substring length: " << maxLength << endl;
 
 return 0;
+
 }
 
